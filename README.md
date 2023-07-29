@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esanka Subhashana</h1>
-<div align="center" <img src="https://github.com/Esanka96/Esanka96/blob/main/web-development.jpg"> </div>
+<div align="center"> <img src="https://github.com/Esanka96/Esanka96/blob/main/web-development.jpg"> </div>
 <h3 align="center">A passionate web developer.</h3>
 
 - 🌱 I’m currently learning **Web development & Software development**
