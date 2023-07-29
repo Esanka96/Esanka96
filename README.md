@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esanka Subhashana</h1>
 <div align="center"> <img src="https://github.com/Esanka96/Esanka96/blob/main/web-development.jpg"> </div>
 <h3 align="center">A passionate web developer.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning **Web development & Software development**
 
