@@ -3,7 +3,7 @@
 <h3 align="center">A passionate web developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning **Web development & Software development**
+- 🌱 I’m currently learning **Web development & Web Scraping**
 
 - 📫 How to reach me **esanka1996@gmail.com**
 
